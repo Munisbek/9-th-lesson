@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Homework3</title>
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
+</head>
+<body>
+<font color="#006400" class="text-center"><h2>Planets List</h2><font>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-5">
+                <font color="black"><h3>Mercury</h3></font>
+                <img src="img/mercury.jpg" height="224">
+            </div>
+            <div class="col-xs-5">
+                <font color="black"><h3>Jupiter</h3></font>
+                <img src="img/jupiter.jpg">
+            </div>
+            <div class="col-xs-5">
+                <font color="black"><h3>Earth</h3></font>
+                <img src="img/earth.jpg">
+            </div>
+            <div class="col-xs-5">
+                <font color="black"><h3>Pluto</h3></font>
+                <img src="img/pluto.jpg">
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
